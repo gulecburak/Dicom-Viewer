@@ -1,0 +1,23 @@
+C:\Users\M.Tayyip Yetiş\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\M.Tayyip Yetiş\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\M.Tayyip Yetiş\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\M.Tayyip Yetiş\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\M.Tayyip Yetiş\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\M.Tayyip Yetiş\Desktop\WebApplication2\WebApplication2\bin\DotNetZip.dll
+C:\Users\M.Tayyip Yetiş\Desktop\WebApplication2\WebApplication2\bin\DotNetZip.xml
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\bin\WebApplication2.dll
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\bin\WebApplication2.pdb
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\bin\DotNetZip.dll
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\bin\DotNetZip.xml
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\burak_000\Desktop\Dicom Viewer\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\bin\WebApplication2.dll
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\bin\WebApplication2.pdb
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\bin\DotNetZip.dll
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\bin\DotNetZip.xml
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\burak_000\Desktop\New folder()\Dicom Viewer\WebApplication2\obj\Debug\WebApplication2.pdb
